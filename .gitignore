@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+test.py
+pandasai.log
+cache
+user question.csv
